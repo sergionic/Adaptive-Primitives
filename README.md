@@ -19,4 +19,4 @@ Copy `Adaptive primitives palette` folder to your scripts folder
 
 ### Video of Installation and Using:
 
-[https://youtu.be/vnNT9Ssjk6Y](https://youtu.be/vnNT9Ssjk6Y)
+[https://youtu.be/0Xoom3VUvN4](https://youtu.be/0Xoom3VUvN4)
