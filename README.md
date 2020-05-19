@@ -15,7 +15,7 @@ Copy `Adaptive primitives palette` folder to your scripts folder
 
 ### Using:
 
-![Using](https://github.com/sergionic/Adaptive-Primitives/blob/master/Example.gif)
+![Using](https://github.com/sergionic/Adaptive-Primitives/blob/master/Example_1.gif)
 
 ### Video of Installation and Using:
 
